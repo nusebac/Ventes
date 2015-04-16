@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 14 14:37:52 2015
-
-@author: HP
+@author: Arka Gupta
 """
 
 import Times_Scrape_Co
