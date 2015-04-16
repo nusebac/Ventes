@@ -1,7 +1,7 @@
 # Ventes
 Ventes Scrape Task -Times Directory -- http://www.timesbusinessdirectory.com
 
-Python Packages Installed:
+# Python Packages Installed:
 
 requests - http://docs.python-requests.org/en/latest/
 
@@ -11,13 +11,13 @@ import csv - https://docs.python.org/2/library/csv.html
 
 selenium - https://pypi.python.org/pypi/selenium
 
-Some Stats:
+# Some Stats:
 
 About 90% of the data is scraped succesfully till now.
 
 Many few websites are listed.Some sample is given and could be verified.
 
-Possible Modifications:
+# Possible Modifications:
 
 Updating the code to extract 100% information.
 
